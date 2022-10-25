@@ -1,7 +1,7 @@
 # Morph Diffusion   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1n_BVU3s95-Lc04P71udJRB5NUYQgz_K1?usp=sharing)
 
 ### Novel video generation with user prompts + automated tensor image morphing
-Morph Diffusion is a workflow that can create a seamless video based on a number of user inputs and prompts describing the envisioned video. It is called "Morph Diffusion" as it is using the v1.5 Stable Diffusion ckpt to generate images, then morphing between them to create a video output. It is required to use the premium teirs to run the notebook as it is extremely compute intenssive. 
+Morph Diffusion is a workflow that can create a seamless video based on a number of user inputs and prompts describing the envisioned video. It is called "Morph Diffusion" as it is using the v1.5 Stable Diffusion ckpt to generate images, then morphing between them to create a video output. It is required to use the premium tier to run the notebook as it is extremely compute intenssive. 
 
 ---
 
