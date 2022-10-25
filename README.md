@@ -33,7 +33,10 @@ The input of this program is the amount of photos and the content of said photos
 
 **Selection determines which parts of an algorithm are executed based on a condition being true or false. Paste a screenshot of selection(if) being used in your program:**
 
-<img width="470" alt="Screen Shot 2022-10-24 at 11 23 30 PM" src="https://user-images.githubusercontent.com/59319094/197675015-066805d2-fce3-4092-a338-14c92093fd94.png">
+```python
+if image_count > 25:
+    raise SystemExit("You can only use have 25 images or less!")
+```
 
 **Describe the code segment related to selection and how it relates to the function of the program.** 
 
@@ -42,10 +45,34 @@ This code segment will take the user's input, then check if the number which was
 **Capture and paste program code segments you developed for the program that contains a list being used to manage complexity in your program.**
 
 **Paste the first segment which shows how data have been stored in the list:**
-<img width="652" alt="Screen Shot 2022-10-24 at 11 27 37 PM" src="https://user-images.githubusercontent.com/59319094/197675516-fbade33f-1a55-40fd-9adb-54ca84ad3509.png">
+
+```python
+image_prompts = []
+
+for i in range(image_count):
+  in_text = f"What would you like image #{str(i + 1)} to be? "
+  response = input(in_text)
+  image_prompts.append(f'photo of a {response} high resolution, in the middle of a road')
+```
 
 **Paste the second segment which shows data in the list being used to fulfill the program’s purpose:**
-<img width="781" alt="Screen Shot 2022-10-24 at 11 28 15 PM" src="https://user-images.githubusercontent.com/59319094/197675624-84a9c5d2-0386-4d72-b059-fc8b84b5a497.png">
+
+```python
+for i in range(len(image_prompts)):
+
+  guidance_scale=9.5
+  num_samples = 3
+  generator = torch.Generator(device="cuda").manual_seed(23829) # change the seed to get different results
+
+  images = pipe(
+      prompt=image_prompts[i],
+      image=image,
+      mask_image=mask_image,
+      guidance_scale=guidance_scale,
+      generator=generator,
+      num_images_per_prompt=num_samples,
+  ).images
+```
 
 **Identify the name of the list being used.**
 The name of the list used is _image\_prompts_
