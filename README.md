@@ -41,11 +41,14 @@ This code segment will take the user's input, then check if the number which was
 
 **Capture and paste program code segments you developed for the program that contains a list being used to manage complexity in your program.**
 
-Paste the first segment which shows how data have been stored in the list:
+**Paste the first segment which shows how data have been stored in the list:**
+<img width="652" alt="Screen Shot 2022-10-24 at 11 27 37 PM" src="https://user-images.githubusercontent.com/59319094/197675516-fbade33f-1a55-40fd-9adb-54ca84ad3509.png">
 
-Paste the second segment which shows data in the list being used to fulfill the program’s purpose:
+**Paste the second segment which shows data in the list being used to fulfill the program’s purpose:**
+<img width="781" alt="Screen Shot 2022-10-24 at 11 28 15 PM" src="https://user-images.githubusercontent.com/59319094/197675624-84a9c5d2-0386-4d72-b059-fc8b84b5a497.png">
 
-Identify the name of the list being used.
+**Identify the name of the list being used.**
+The name of the list used is _image\_prompts_
 
 Describe what the data contained in the list represents in your program.
 
