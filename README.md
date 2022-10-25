@@ -11,3 +11,10 @@ https://user-images.githubusercontent.com/59319094/197673297-af666d1d-53c2-449a-
 
 https://user-images.githubusercontent.com/59319094/197673388-7aa06cf3-ff14-478f-96b3-b65a453bb9c3.mp4
 
+---
+
+## Usage
+
+[Google Colab Notebook](https://colab.research.google.com/github/ryan-huang1/morph-diffusion/blob/main/morph-diffusion.ipynb) Note: A HuggingFace account + a valid write toekn is required for use of this notebook
+
+It should be simple as going code block by block executing each one after another, some may take up to 2 hours to execute :)
