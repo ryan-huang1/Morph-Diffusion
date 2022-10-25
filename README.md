@@ -50,6 +50,9 @@ This code segment will take the user's input, then check if the number which was
 **Identify the name of the list being used.**
 The name of the list used is _image\_prompts_
 
-Describe what the data contained in the list represents in your program.
+**Describe what the data contained in the list represents in your program.**
+The image prompts the user would like each of the images to be is stored in the list
 
-Explain how the selected list manages complexity in your program code by explaining why your program code could not be written, or how it would be written differently, if you did not use the list. 
+**Explain how the selected list manages complexity in your program code by explaining why your program code could not be written, or how it would be written differently, if you did not use the list.**
+
+The selected list allows the reduction of variables in my code, if lists were prohibited I would be forced to create a new varible for each desired prompts
