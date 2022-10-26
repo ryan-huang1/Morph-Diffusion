@@ -21,6 +21,15 @@ It should be simple as going code block by block executing each one after anothe
 
 ---
 
+## Design Process!
+
+![Design Sketch](https://user-images.githubusercontent.com/59319094/197906143-e75de8e6-208a-4bf6-a0cd-e54f425f5792.jpg)
+
+I had the idea of a fall background with the user having any input, rather than a set, set of images. These were to two general conecpts which I came up with, either something sitting on a bench, or a receding road surrounded by leaves.
+
+
+---
+
 ## Assigmemt Questions
 
 **Paste 3 screenshots that illustrate what your program does:**
