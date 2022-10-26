@@ -97,6 +97,7 @@ for i in range(len(image_prompts)):
 The name of the list used is _image\_prompts_
 
 **Describe what the data contained in the list represents in your program.**
+
 The image prompts the user would like each of the images to be is stored in the list
 
 **Explain how the selected list manages complexity in your program code by explaining why your program code could not be written, or how it would be written differently, if you did not use the list.**
