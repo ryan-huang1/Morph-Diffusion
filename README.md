@@ -103,3 +103,7 @@ The image prompts the user would like each of the images to be is stored in the 
 **Explain how the selected list manages complexity in your program code by explaining why your program code could not be written, or how it would be written differently, if you did not use the list.**
 
 The selected list allows the reduction of variables in my code, if lists were prohibited I would be forced to create a new varible for each desired prompts
+
+---
+
+Getty. "A fall drive on Vermont country roads is one of the season's highlights." Getty, 25 Oct 2022, https://imageio.forbes.com/specials-images/imageserve/630ce589c89c4d1490515cb5/fall-foliage-road-trip-2022/0x0.jpg?format=jpg&crop=1041,697,x0,y0,safe&width=960
