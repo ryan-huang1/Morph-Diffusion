@@ -33,7 +33,7 @@ I had the idea of a fall background with the user having any input, rather than 
 
 **Paste 3 screenshots that illustrate what your program does:**
 
-<img width="300" alt="Screen Shot 2022-10-25 at 8 33 49 PM" src="https://user-images.githubusercontent.com/59319094/197907122-a98693b9-e533-45c6-bde2-1f2d34cba064.png"> <img width="300" alt="Screen Shot 2022-10-25 at 8 34 05 PM" src="https://user-images.githubusercontent.com/59319094/197907120-d362017b-fc78-43c5-9df8-70640cc31587.png"> <img width="300" alt="Screen Shot 2022-10-25 at 8 39 40 PM" src="https://user-images.githubusercontent.com/59319094/197907669-60ec3a5d-992f-4adb-ac54-13991017023f.png">
+<img width="260" alt="Screen Shot 2022-10-25 at 8 33 49 PM" src="https://user-images.githubusercontent.com/59319094/197907122-a98693b9-e533-45c6-bde2-1f2d34cba064.png"> <img width="260" alt="Screen Shot 2022-10-25 at 8 34 05 PM" src="https://user-images.githubusercontent.com/59319094/197907120-d362017b-fc78-43c5-9df8-70640cc31587.png"> <img width="260" alt="Screen Shot 2022-10-25 at 8 39 40 PM" src="https://user-images.githubusercontent.com/59319094/197907669-60ec3a5d-992f-4adb-ac54-13991017023f.png">
 
 
 
