@@ -27,6 +27,10 @@ It should be simple as going code block by block executing each one after anothe
 
 **Describe the overall purpose of the program and briefly explain what the screenshots illustrate.**
 
+**List and describe the steps of an iterative development process.**
+
+I first defined and created three distinct programs, image gerneration, photo merging, and user input collection. I then integrated the two more complex systems then added in the last. This is what I found worked best for me rather than editiing a large multifaceted program.
+
 **Describe the input and output of the program.**
 
 The input of this program is the amount of photos and the content of said photos, hardcoded it takes the additional inputs of a background image + a image mask. The output of this program is a seamless video of the photos being morphed.
