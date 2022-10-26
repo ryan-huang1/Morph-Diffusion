@@ -27,14 +27,19 @@ It should be simple as going code block by block executing each one after anothe
 
 I had the idea of a fall background with the user having any input, rather than a set, set of images. These were to two general conecpts which I came up with, either something sitting on a bench, or a receding road surrounded by leaves.
 
-
 ---
 
 ## Assigmemt Questions
 
 **Paste 3 screenshots that illustrate what your program does:**
 
+<img width="300" alt="Screen Shot 2022-10-25 at 8 33 49 PM" src="https://user-images.githubusercontent.com/59319094/197907122-a98693b9-e533-45c6-bde2-1f2d34cba064.png"> <img width="300" alt="Screen Shot 2022-10-25 at 8 34 05 PM" src="https://user-images.githubusercontent.com/59319094/197907120-d362017b-fc78-43c5-9df8-70640cc31587.png"> <img width="300" alt="Screen Shot 2022-10-25 at 8 39 40 PM" src="https://user-images.githubusercontent.com/59319094/197907669-60ec3a5d-992f-4adb-ac54-13991017023f.png">
+
+
+
 **Describe the overall purpose of the program and briefly explain what the screenshots illustrate.**
+
+This program is a pipeline to create images and morph them into a complete video. In the first two screen-grabs it shows a frame of two images merging into each other, this will create a much more seamless video than simply fading. In the thired screen-grab it shows how the program will save each of those images to the local machine, this shows how the video is simply the merge animation between the images.
 
 **List and describe the steps of an iterative development process.**
 
