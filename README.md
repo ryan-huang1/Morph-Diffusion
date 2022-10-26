@@ -93,6 +93,7 @@ for i in range(len(image_prompts)):
 ```
 
 **Identify the name of the list being used.**
+
 The name of the list used is _image\_prompts_
 
 **Describe what the data contained in the list represents in your program.**
